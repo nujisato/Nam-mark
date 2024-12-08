@@ -7,6 +7,9 @@ Electronで動作します
 [Electron Text Editor](https://github.com/ics-creative/150819_electron_text_editor)
 
 # 使ったもの
-- Font Awesome(free)
-- Ace
-- Marked
+- Ace https://ace.c9.io/
+- Marked https://github.com/markedjs/marked
+
+## 見た目
+- milligram https://milligram.io/
+- Font Awesome(free) https://fontawesome.com/
